@@ -1,7 +1,5 @@
 # Devops_Automation_project
 
-# Devops_Automation_project
-
 ## About Project:
 This project is to automate a great use-case of industry. This is a small infrastructure that is mostly used in every IT industry. Various DevOps tools such as git, Github, Jenkins, docker are used in this project
 
@@ -35,6 +33,7 @@ For this purpose, we have to use hooks
 
 ![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/pycode.PNG)
 
+![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/pyinterior.PNG)
 
 ## Step 8, 9 & 10: In job 3 as the testing team have given the certificate then it will go to the GitHub & merge the code with the master branch code and also delete the testing os as we always want new os for testing that’s why we use Docker.
 
