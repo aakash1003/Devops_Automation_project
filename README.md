@@ -42,3 +42,13 @@ For this purpose, we have to use hooks
 ![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/merge-2.PNG)
 
 ![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/merge-3.PNG)
+
+## Basic prerequisites:
+- docker
+- linux
+- jenkins
+- git 
+- github
+
+## Author: 
+Aakash Sharma
