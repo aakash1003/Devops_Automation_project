@@ -25,9 +25,11 @@ For this purpose, we have to use hooks
 
 ## Step 5: The job 1 will now run the job where it will copy the data into the folder and launch the testing os with the mounting of that folder and this is used by the testing team to test the code.
 
-![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/training-1.PNG)
-![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/training-2.PNG)
-![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/trainingOS.PNG)
+![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/testing-1.PNG)
+
+![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/testing-2.PNG)
+
+![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/testingOS.PNG)
 
 ## Step 7 & 8: Now the quality assurance team (QAT) will check that code that it is working well or not and if it is ok then the job 3 will get triggered and code is uploaded to the production server.
 
@@ -37,5 +39,7 @@ For this purpose, we have to use hooks
 ## Step 8, 9 & 10: In job 3 as the testing team have given the certificate then it will go to the GitHub & merge the code with the master branch code and also delete the testing os as we always want new os for testing that’s why we use Docker.
 
 ![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/merge-1.PNG)
+
 ![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/merge-2.PNG)
+
 ![alt text](https://github.com/aakash1003/Devops_Automation_project/blob/master/merge-3.PNG)
